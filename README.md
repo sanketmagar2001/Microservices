@@ -6,3 +6,5 @@ Services we are going to build:
 • Order Service - Can Order Products.
 • Inventory Service - Can check if product is in stock or not.
 • Notification Service - Can send notifications, after order is placed.
+
+
